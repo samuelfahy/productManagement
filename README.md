@@ -1,8 +1,9 @@
-Product Management Application
+
 The Product Management Application is a Java Swing-based desktop application that allows users to manage and search for products in a catalog.
 The application consists of two main functionalities - adding product details and searching for products by category.
 
 Features
+
 Product Details Tab:
 
 Users can input product details such as code, name, category, and price.
