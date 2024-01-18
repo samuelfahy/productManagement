@@ -24,8 +24,7 @@ Search by Category Tab:
 Enter a category in the search field.
 Click the "Search" button to find products in the specified category.
 Use the "Clear Search" button to reset the search and result fields.
-Getting Started
-Clone the repository to your local machine:
+
 
 Dependencies
 The application is built using Java Swing for the graphical user interface.
